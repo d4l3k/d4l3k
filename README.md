@@ -2,7 +2,7 @@
 
 I hack on ML, security and self-driving cars. Always down to chat 🙂
 
-Professionally I'm currently working on PyTorch Distributed.
+Professionally I'm currently working on PyTorch Distributed (torchft, torchcomms, elastic, scaling, perf reliability, etc)
 
 Website: http://fn.lc
 
